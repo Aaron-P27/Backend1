@@ -1,1 +1,3 @@
 # Backend1
+### git config --global user.name "nombre de usuario"
+### git config --global user.email "email"
